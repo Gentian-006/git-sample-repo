@@ -1,0 +1,8 @@
+git status -->> print the status of the git repository
+git init->> Initializes the git repository
+git config —global user.name “Let’s code it”--> specified username
+git config —global user.email letskodeit@gmail.com->> abcdefg
+git add
+git commit -m “”
+git lig
+Git diff <file name>
