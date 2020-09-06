@@ -1,0 +1,8 @@
+git status -->>
+git init->>
+git config —global user.name “Let’s code it”
+git config —global user.email letskodeit@gmail.com
+git add
+git commit -m “”
+git lig
+Git diff <file name>
