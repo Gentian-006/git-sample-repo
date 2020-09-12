@@ -6,3 +6,28 @@ git add
 git commit -m “”
 git lig
 Git diff <file name>
+------------------------------------------------------------------------------------------
+
+Scenario 1:
+First Release—>Done
+Second Release:
+	2 Feature
+	2 People
+Third Release:
+	1 Feature
+	1 People
+
+Scenario 2:
+Two people
+
+Person 1: Enhance the feature
+Person 2: Automate the test cases
+
+test_method—>getName()
+
+Person 1 : Merge the code to master
+Person 2: Pull code from master to  privateBranch, merge code to master
+
+Scenerio 3:
+1 Person—> Two different features
+Works on  different branches
